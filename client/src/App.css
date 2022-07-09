@@ -3,7 +3,7 @@ body{
 }
 
 
-@media (max-aspect-ratio: 7/10) {
+@media (max-aspect-ratio: 8/10) {
 
     .JoinPage{
        
@@ -91,6 +91,4 @@ body{
         border-radius: 1.5vw !important;
         font-size: 3.7vw !important;
     }
-
-
   }

@@ -8,8 +8,7 @@
 }
 
 .JoinContainer{
-   
-   
+
     width: 50%;
     display: flex;
     flex-direction: column;
@@ -17,7 +16,7 @@
 }
 
 .JoinContainer > img{
-    width: 10vmax;
+    width: 12vmax;
 }
 .JoinContainer > h1{
     color: white;
@@ -45,11 +44,11 @@
     color: white;
     outline: none;
     font-size: 1.2vmax;
-   background-color: crimson;
+   background-color: green;
    box-sizing: border-box;
    transition: all 0.3s;
    cursor: pointer;
 }
 .joinbtn:hover{
-    background-color: rgb(180, 27, 58);
+    background-color: darkgreen;
 }
